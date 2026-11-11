@@ -1,0 +1,10 @@
+{
+    "[cpp]": {
+        "editor.quickSuggestions": false,
+        "editor.suggestOnTriggerCharacters": false,
+        "editor.inlineSuggest.enabled": false
+    },
+    "github.copilot.enable": {
+        "*": false
+    }
+}

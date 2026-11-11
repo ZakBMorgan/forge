@@ -1,0 +1,23 @@
+# CMake build directories
+/build/
+
+# Compiled files
+*.o
+*.a
+*.dylib
+*.so
+
+# Local executables
+forge_exercise
+test_tensor
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Model weights and generated data
+/models/
